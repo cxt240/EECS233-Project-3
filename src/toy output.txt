@@ -1,0 +1,14 @@
+(s 1)
+(grader 1)
+(alive 1)
+(hello 2)
+(bye 1)
+(hi 1)
+(it 1)
+
+tested on hello program
+Size: 512
+Words: 8
+Unique Words: 7
+Indicies used: 7
+Average length: 0.0

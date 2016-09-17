@@ -1,0 +1,5 @@
+Size: 2048
+Words: 8791
+Unique Words: 2108
+Indicies used: 1254
+Average length: 1.0
